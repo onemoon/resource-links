@@ -7,3 +7,5 @@
 [:smirk: Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 [:scream: Emoji all](https://www.emojiall.com)
+
+[Emoji Presentation Sequences, v15.0](http://unicode.org/emoji/charts/emoji-variants.html)
